@@ -1,0 +1,4 @@
+Sitemap: https://kmink.us/sitemapindex.xml
+
+User-Agent: *
+Host: kmink.us
